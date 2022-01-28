@@ -4,6 +4,6 @@
 
 ## QuickStart
 
-[Zaabee.FastDfsClient](https://github.com/Mutuduxf/Zaabee.FastDFS/blob/master/src/Zaabee.FastDfs/README.md)
+[Zaabee.FastDfsClient](https://github.com/PicoHex/Zaabee.FastDFS/blob/master/src/Zaabee.FastDfs/README.md)
 
-[Zaabee.FastDfsProvider](https://github.com/Mutuduxf/Zaabee.FastDFS/blob/master/src/Zaabee.FastDfsProvider/README.md)
+[Zaabee.FastDfsProvider](https://github.com/PicoHex/Zaabee.FastDFS/blob/master/src/Zaabee.FastDfsProvider/README.md)

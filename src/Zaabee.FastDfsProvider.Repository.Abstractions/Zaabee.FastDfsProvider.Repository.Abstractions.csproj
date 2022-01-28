@@ -4,11 +4,11 @@
         <TargetFramework>netstandard2.0</TargetFramework>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <LangVersion>latest</LangVersion>
-        <PackageVersion>2021.1.0</PackageVersion>
-        <Version>2021.1.0</Version>
+        <PackageVersion>2022.1.0</PackageVersion>
+        <Version>2022.1.0</Version>
         <Authors>Mutuduxf</Authors>
         <Company>Mutuduxf</Company>
-        <PackageProjectUrl>https://github.com/Mutuduxf/Zaaby.FastDFS</PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/PicoHex/Zaaby.FastDFS</PackageProjectUrl>
         <PackageTags>Zaabee;FastDFS Provider Repository Abstractions</PackageTags>
         <Description>The interfaces and abstraction classes for Zaabee FastDfsPrvider repository</Description>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>

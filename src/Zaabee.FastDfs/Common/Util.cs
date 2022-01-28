@@ -72,7 +72,7 @@ namespace Zaabee.FastDfs.Common
             Array.Copy(bsKey, 0, buff, bsFileId.Length, bsKey.Length);
             Array.Copy(bsTimestamp, 0, buff, bsFileId.Length + bsKey.Length, bsTimestamp.Length);
 
-            return buff.ToMd5(false, true);
+            return buff.ToMd5String();
         }
     }
 }
