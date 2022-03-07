@@ -6,7 +6,7 @@ namespace Zaabee.FastDfsProvider.UnitTest
     public static class Md5Helper
     {
         /// <summary>
-        /// Get 32bit MD5 
+        /// Get 32bit MD5
         /// </summary>
         /// <param name="bytes"></param>
         /// <param name="isUpper"></param>
