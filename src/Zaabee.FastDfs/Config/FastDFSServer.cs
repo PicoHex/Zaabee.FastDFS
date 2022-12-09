@@ -1,9 +1,8 @@
-﻿namespace Zaabee.FastDfs.Config
-{
-    public class FastDfsServer
-    {
-        public string IpAddress { get; set; }
+﻿namespace Zaabee.FastDfs.Config;
 
-        public int Port { get; set; }
-    }
+public class FastDfsServer
+{
+    public string IpAddress { get; set; }
+
+    public int Port { get; set; }
 }

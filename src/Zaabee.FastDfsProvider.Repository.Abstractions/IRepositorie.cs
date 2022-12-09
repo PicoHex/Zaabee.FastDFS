@@ -1,8 +1,7 @@
-﻿namespace Zaabee.FastDfsProvider.Repository.Abstractions
+﻿namespace Zaabee.FastDfsProvider.Repository.Abstractions;
+
+public interface IRepository
 {
-    public interface IRepository
-    {
-        void Add(FileDfsInfo fileDfsInfo);
-        void DeleteByDfsFileName(string dfsFileName);
-    }
+    void Add(FileDfsInfo fileDfsInfo);
+    void DeleteByDfsFileName(string dfsFileName);
 }

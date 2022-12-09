@@ -1,12 +1,9 @@
-﻿using System;
+﻿namespace Zaabee.FastDfs.Common;
 
-namespace Zaabee.FastDfs.Common
+public class FdfsException : Exception
 {
-    public class FdfsException : Exception
+    public FdfsException(string msg) : base(msg)
     {
-        public FdfsException(string msg) : base(msg)
-        {
-        }
-        public int ErrorCode { get; set; }
     }
+    public int ErrorCode { get; set; }
 }
