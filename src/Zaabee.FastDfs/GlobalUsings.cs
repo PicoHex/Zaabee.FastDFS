@@ -11,7 +11,7 @@ global using System.Net;
 global using System.Net.Sockets;
 global using System.Text;
 global using System.Threading;
-global using Zaabee.Cryptographic;
+global using Zaabee.Cryptography;
 global using Zaabee.FastDfs.Common;
 global using Zaabee.FastDfs.Config;
 global using Zaabee.FastDfs.Storage;
